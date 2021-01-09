@@ -1,0 +1,164 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://static6.tanuki.ru/product/1/xJB0Hn8GzyNVHEZwfH7OtOOEaBd10BUq.jpg?width=1300&height=1300",
+      "name": "лосось",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1200,
+      "category": 2,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://www.tanuki.ru//common/upload/unagi_1164[2][1].jpg?width=1300&height=1300",
+      "name": "Угорь",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1245,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://www.tanuki.ru//common/upload/maguro_1164[1].jpg?width=1300&height=1300",
+      "name": "Тунец",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1295,
+      "category": 2,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://www.tanuki.ru//common/upload/hamachi_1164.jpg?width=1300&height=1300",
+      "name": "Желтохвост",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1275,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://static6.tanuki.ru/product/1/0wNoGl293URMHhvtJVGBmdNNTmkoo6iV.jpg?width=1300&height=1300",
+      "name": "Ассорти",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1415,
+      "category": 2,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://www.tanuki.ru//common/upload/Kaliforniya[26].jpg?width=1300&height=1300",
+      "name": "Калифорния",
+      "types": [0],
+      "sizes": ["S", "M", "XL"],
+      "price": 1580,
+      "category": 0,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://static6.tanuki.ru/product/1/Zwj_eV5vcYtk_pLpnT1ojdtdR6BFotIi.jpg?width=1300&height=1300",
+      "name": "Филадельфия смоук",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1675,
+      "category": 0,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://www.tanuki.ru//common/upload/Arigato_1164[3][1].jpg?width=1300&height=1300",
+      "name": "Аригато",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1450,
+      "category": 0,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://static6.tanuki.ru/product/1/G0CXSzIYAVD_vi_zA6lPgGCNhlwowSoo.jpg?width=1300&height=1300",
+      "name": "Киноа",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1395,
+      "category": 0,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://static6.tanuki.ru/product/1/hKjrPHHh7VyCw-GJqO6JJmLKOHrUzNke.jpg?width=1300&height=1300",
+      "name": "Мисо суп",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1395,
+      "category": 1,
+      "rating": 10
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://www.tanuki.ru//common/upload/ramen_1164x1164[3][1].jpg?width=1300&height=1300",
+      "name": "Рамен",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1395,
+      "category": 1,
+      "rating": 10
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://static4.tanuki.ru/product/1/xRZwTLyLt3C6tw7zmf23RckJuMVt83mF.jpg?width=1300&height=1300",
+      "name": "Фурай",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1285,
+      "category": 0,
+      "rating": 7
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://static6.tanuki.ru/product/1/-PQDlYRBoiz0-jbYfnPVN8iYjNwN-sse.jpg?width=1300&height=1300",
+      "name": "Говядина со спаржей",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1395,
+      "category": 3,
+      "rating": 10
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://www.tanuki.ru//common/upload/CesarKrevetki_1164[1][1].jpg?width=1300&height=1300",
+      "name": "Цезарь",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1395,
+      "category": 3,
+      "rating": 10
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://static4.tanuki.ru/product/1/R_5auJlIMy_iDaWkf9TTK0mnjmJc59bH.jpg?width=1300&height=1300",
+      "name": "Теплый салат",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1285,
+      "category": 3,
+      "rating": 7
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://www.tanuki.ru//common/upload/KanrakuSiru_1164[1][1].jpg?width=1300&height=1300",
+      "name": "Чикен чиз",
+      "types": [0, 1],
+      "sizes": ["S", "M", "XL"],
+      "price": 1285,
+      "category": 1,
+      "rating": 7
+    }
+  ]
+}
